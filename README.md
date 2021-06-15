@@ -23,7 +23,7 @@ Pour l’utilisation de ce module, référez-vous aux indications présentes sur
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [LM2904DR](https://github.com/pierron-asco-celda/33130-Capteur_sonore_GROVE/blob/main/src/Datasheet_LM358.pdf)
+Ressource utilisation : [LM2904DR](https://github.com/pierron-asco-celda/33167-Capteur_sonore_basse_GROVE/blob/main/src/Datasheet_LM2904DR.pdf)
 
 # Exemple :
 ### Arduino / C++
