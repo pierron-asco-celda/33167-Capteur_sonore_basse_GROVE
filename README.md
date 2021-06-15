@@ -3,7 +3,7 @@
 Capteur sonore basse GROVE [33167](https://www.pierron.fr/capteur-sonore-basse-grove.html)
 
 <div style="text-align: justify">Ce module, compatible Grove, est conçu pour détecter le volume du son ambiant. Il dispose d'un microphone intégré, associé à un amplificateur LM2904. Il filtre les hautes fréquences. Un potentiomètre permet d'ajuster manuellement le gain en sortie.
-Ce module se raccorde sur une entrée analogique du Base Shield via un câble 4 conducteur.</div>
+Ce module se raccorde sur une entrée analogique du Base Shield via un câble 4 conducteurs.</div>
 <br>
 
 Caractéristiques techniques :
