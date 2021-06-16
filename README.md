@@ -31,7 +31,7 @@ Ressource utilisation : [LM2904DR](https://github.com/pierron-asco-celda/33167-C
 /*
     ** Mesure intensité son ambiant module Grove **
        PIN A0 Module shield GROVE
-       Moniteur série -> Baud rate 9600.
+       Moniteur série -> Baud rate 9600.*
 */
 
 int iBru = 0;
@@ -48,5 +48,6 @@ void loop() {
 }
 ```
 ## À propos :
+<div style="text-align: justify">*Le débit en bauds est un taux de transfert de données en unités de bits par seconde (bps). Si le débit en bauds est de 9600, cela signifie que la possibilité d’envoyer des données est de 9600 bits en une seconde. 1 caractère est identique à 1 octet.</div>
 <br>
 PIERRON ASCO-CELDA (https://www.pierron.fr).
